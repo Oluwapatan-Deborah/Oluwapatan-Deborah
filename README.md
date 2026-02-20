@@ -7,8 +7,7 @@ I'm a Cloud Engineer who is currently building and open for internships,entry-le
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Cloud Engineering , linux.
+- 🌱 I’m a Cloud/DevOps Engineer , linux.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: DevOps or Cloud Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing deboraholuwapatan@gmail.com.
